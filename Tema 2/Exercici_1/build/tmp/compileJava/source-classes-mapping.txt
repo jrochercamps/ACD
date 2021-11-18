@@ -1,0 +1,12 @@
+Exercici_1/ConnexioBD.java
+ Exercici_1.ConnexioBD
+Exercici_1/Validacio.java
+ Exercici_1.Validacio
+ Exercici_1.Validacio$1
+ Exercici_1.Validacio$2
+ Exercici_1.Validacio$3
+ Exercici_1.Validacio$4
+Exercici_1/Main.java
+ Exercici_1.Main
+Exercici_1/Xifrar.java
+ Exercici_1.Xifrar
