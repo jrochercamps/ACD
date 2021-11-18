@@ -1,0 +1,4 @@
+Exercici_2/Main.java
+ Exercici_2.Main
+Exercici_2/ConnexioBD.java
+ Exercici_2.ConnexioBD
