@@ -46,7 +46,7 @@ public class ConnexioBD{
     public boolean validaUser(String user) throws SQLException{
          
         boolean exiteUser = false;
-        var result= Connexio.prepareStatement("select count(*) from users where username like '"+user+"'").executeQuery();
+        ResultSet result= Connexio.prepareStatement("select count(*) from users where username like '"+user+"'").executeQuery();
         
         if(result.next()){
             int numberRows = result.getInt(1);            
@@ -70,7 +70,7 @@ public class ConnexioBD{
         int res=-1;
         
         boolean exiteUser = false;
-        var result= Connexio.prepareStatement("select * from users where username like '"+user+"'").executeQuery();
+        ResultSet result= Connexio.prepareStatement("select * from users where username like '"+user+"'").executeQuery();
         
         if(result.next()){
             String passMD5_BD = result.getString(2);            
