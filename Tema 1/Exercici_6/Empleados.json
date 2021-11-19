@@ -1,0 +1,44 @@
+{"Empleados": [
+    {
+        "apellidos": "FERNANDEZ",
+        "departamento": 10,
+        "id": 1,
+        "salario": 1000.45
+    },
+    {
+        "apellidos": "GIL",
+        "departamento": 20,
+        "id": 2,
+        "salario": 2400.6
+    },
+    {
+        "apellidos": "LOPEZ",
+        "departamento": 10,
+        "id": 3,
+        "salario": 1600.56
+    },
+    {
+        "apellidos": "RAMOS",
+        "departamento": 10,
+        "id": 4,
+        "salario": 1600.56
+    },
+    {
+        "apellidos": "SEVILLA",
+        "departamento": 30,
+        "id": 5,
+        "salario": 2200
+    },
+    {
+        "apellidos": "CASILLA",
+        "departamento": 30,
+        "id": 6,
+        "salario": 69
+    },
+    {
+        "apellidos": "REY",
+        "departamento": 20,
+        "id": 7,
+        "salario": 2000
+    }
+]}
